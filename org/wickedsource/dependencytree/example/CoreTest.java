@@ -1,3 +1,5 @@
+package org.wickedsource.dependencytree.example;
+
 //These imports shouldn't matter to the DependencyTree
 import java.util.Objects;
 import java.io.BufferedReader;

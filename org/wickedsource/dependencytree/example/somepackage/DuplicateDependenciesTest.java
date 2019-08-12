@@ -1,3 +1,4 @@
+package org.wickedsource.dependencytree.example.somepackage;
 //should not add the same dependency twice
 import org.wickedsource.dependencytree.test.CoreTest;
 import org.wickedsource.dependencytree.test.CoreTest;

@@ -1,3 +1,4 @@
+package org.wickedsource.dependencytree.example.somepackage;
 //Don't import this
 //import org.wickedsource.dependencytree.test.somepackage.NotADependencyTest;
 

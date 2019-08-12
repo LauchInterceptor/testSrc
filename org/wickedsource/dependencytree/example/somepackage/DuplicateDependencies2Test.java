@@ -1,3 +1,4 @@
+package org.wickedsource.dependencytree.example.somepackage;
 //Should not include dependencies twice when in order (wildcard -> explicit)
 import org.wickedsource.dependencytree.test.wildcardpackage.*;
 import org.wickedsource.dependencytree.test.wildcardpackage.WildcardImport1Test;
