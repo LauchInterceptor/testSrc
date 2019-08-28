@@ -7,11 +7,15 @@ import org.wickedsource.dependencytree.example.somepackage.CoreDependencyTest;
 //Wildcard imports should add all classes contained in the package as dependencies
 import org.wickedsource.dependencytree.example.wildcardpackage.*;
 
+import org.wickedsource.dependencytree.example.somepackage.NotADependencyTest;
+
 
 //Test code for dependencyTree
 public class CoreTest{
 
     org.wickedsource.dependencytree.example.somepackage.FullyClassifiedDependencyTest fullyClassifiedDependencyTest;
+
+    private NotADependencyTest notADependencyTest;
 
     public CoreTest{
 
