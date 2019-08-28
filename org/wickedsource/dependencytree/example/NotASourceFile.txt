@@ -1,1 +1,1 @@
-import org.wickedsource.dependencytree.CoreTest;
+import org.wickedsource.dependencytree.example.CoreTest;

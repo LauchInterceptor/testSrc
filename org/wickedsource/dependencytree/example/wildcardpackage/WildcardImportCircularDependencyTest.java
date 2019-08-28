@@ -1,6 +1,6 @@
 package org.wickedsource.dependencytree.example.wildcardpackage;
 
-import org.wickedsource.dependencytree.CoreTest;
+import org.wickedsource.dependencytree.example.CoreTest;
 
 public class WildcardImportCircularDependencyTest{
 
