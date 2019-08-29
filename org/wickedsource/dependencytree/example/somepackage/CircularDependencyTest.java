@@ -1,6 +1,6 @@
 package org.wickedsource.dependencytree.example.somepackage;
 
-import org.wickedsource.dependencytree.example.example.CoreTest;
+import org.wickedsource.dependencytree.example.CoreTest;
 
 public class CircularDependencyTest{
 
