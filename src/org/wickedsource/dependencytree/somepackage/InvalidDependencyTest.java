@@ -1,12 +1,6 @@
-package org.wickedsource.dependencytree.example.somepackage;
+package org.wickedsource.dependencytree.somepackage;
 //Don't import this
 //import org.wickedsource.dependencytree.example.somepackage.NotADependencyTest;
-
-
-
-
-
-
 
 public class InvalidDependencyTest{
 
@@ -15,7 +9,7 @@ public class InvalidDependencyTest{
 
     public InvalidDependencyTest(){
         //Don't import this
-        import org.wickedsource.dependencytree.example.somepackage.NotADependencyTest;
+        /*import NotADependencyTest;*/
     }
 
 }

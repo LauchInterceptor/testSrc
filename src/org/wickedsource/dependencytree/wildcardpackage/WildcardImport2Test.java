@@ -1,4 +1,4 @@
-package org.wickedsource.dependencytree.example.wildcardpackage;
+package org.wickedsource.dependencytree.wildcardpackage;
 
 public class WildcardImport2Test{
 

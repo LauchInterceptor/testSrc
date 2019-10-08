@@ -1,4 +1,4 @@
-package org.wickedsource.dependencytree.example.somepackage;
+package org.wickedsource.dependencytree.somepackage;
 
 public class CoreDependencyTest{
 
