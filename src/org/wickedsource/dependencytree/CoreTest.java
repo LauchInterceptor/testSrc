@@ -4,16 +4,15 @@ package org.wickedsource.dependencytree;
 //Wildcard imports should add all classes contained in the package as dependencies
 import org.wickedsource.dependencytree.wildcardpackage.*;
 
-import org.wickedsource.dependencytree.somepackage.FullyClassifiedDependencyTest;
-import org.wickedsource.dependencytree.somepackage.NotADependencyTest;
+import org.wickedsource.dependencytree.somepackage.extras.FullyClassifiedDependencyTest;
 
 
 //Test code for dependencyTree
 public class CoreTest{
 
+    private WildcardImportCircularDependency wildcardImportCircularDependency;
     FullyClassifiedDependencyTest fullyClassifiedDependencyTest;
 
-    private NotADependencyTest notADependencyTest;
 
     public CoreTest() {
 
